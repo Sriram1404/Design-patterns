@@ -1,4 +1,4 @@
-package Creational.Creational;
+package Creational;
 
 class Database {
     private volatile static Database instance = null;
